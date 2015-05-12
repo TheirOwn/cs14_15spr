@@ -191,4 +191,8 @@ template<typename T>
 void showTowerStates(int n, stack<T>& A, stack<T>& B, stack<T>& C) {
     showTowerStates(n, A, B, C, 'A', 'B', 'C');
 }
+<<<<<<< HEAD
 #endif
+=======
+#endif
+>>>>>>> 85454a51aa1fb33c332641ec64fe4c18e559e0ec
