@@ -1,0 +1,3 @@
+3 B)
+Trees are useful for keeping things in order, but run slower than hash tables. 
+To better compare the two data types, we would need to view the memory usage of both and watch for the boundary cases of very few input and this one.
